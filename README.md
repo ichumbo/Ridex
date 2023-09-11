@@ -5,7 +5,7 @@
   
   <img src="./readme-images/project-logo.png" />
 
-  <h2 align="center">Ridex - Car rent website</h2>
+  <h2 align="center">Ridex - Site de aluguel de carros</h2>
 
   Ridex é um site de aluguel de carros totalmente responsivo, <br />responsivo para todos os dispositivos, construído usando HTML, CSS e JavaScript.
 
