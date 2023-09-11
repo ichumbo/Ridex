@@ -22,7 +22,7 @@
 
 ### Contato
 
-Se você quiser entrar em contato comigo, pode entrar em contato comigo em [Twitter](https://www.twitter.com/codewithsadee).
+Se você quiser entrar em contato comigo, pode entrar em contato comigo em [Twitter](https://www.twitter.com/IanMelw).
 
 ### Licença
 
