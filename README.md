@@ -9,7 +9,7 @@
 
   Ridex é um site de aluguel de carros totalmente responsivo, <br />responsivo para todos os dispositivos, construído usando HTML, CSS e JavaScript.
 
-  <a href="https://codewithsadee.github.io/ridex/"><strong>➥ Demonstação</strong></a>
+  <a href="https://ichumbo.github.io/Ridex/"><strong>➥ Demonstação</strong></a>
 
 </div>
 
