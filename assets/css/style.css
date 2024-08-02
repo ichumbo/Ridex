@@ -207,6 +207,10 @@ button, a { transition: var(--transition); }
   line-height: 1.4;
 }
 
+.w-135 {
+  width: 135px;
+}
+
 .h1 {
   font-size: var(--fs-1);
   text-transform: uppercase;
@@ -975,7 +979,7 @@ button, a { transition: var(--transition); }
 
   .hero-banner {
     display: block;
-    background: url("../images/hero-banner.jpg") no-repeat;
+    background: url("../images/hero-banner.png") no-repeat;
     background-size: cover;
     background-position: left;
     position: absolute;
